@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AnkoTest</string>
+    <string name="this_is_basic_example">This is the most basic example.
+        A vertical LinearLayout with a TextView and a Button</string>
+</resources>
