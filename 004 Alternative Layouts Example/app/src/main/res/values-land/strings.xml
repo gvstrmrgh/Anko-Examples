@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AnkoTest</string>
+    <string name="this_is_basic_example">The image will be different based on portrait or landscape orientation</string>
+	<string name="portland" translatable="false">landscape</string>
+</resources>
