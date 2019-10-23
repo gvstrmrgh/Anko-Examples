@@ -1,0 +1,4 @@
+<resources>
+    <string name="this_is_basic_example">Dit is die mees basiese voorbeeld.
+        \'N Vertikale LinearLayout met \'n TextView en \'n knop</string>
+</resources>

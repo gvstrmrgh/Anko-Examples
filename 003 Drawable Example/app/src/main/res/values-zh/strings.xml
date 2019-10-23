@@ -1,0 +1,4 @@
+<resources>
+    <string name="this_is_basic_example">这是最基本的例子。
+        具有TextView和按钮的垂直LinearLayout</string>
+</resources>
